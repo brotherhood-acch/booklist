@@ -1,0 +1,8 @@
+# General Jekyll Config
+highlighter: rouge
+title: '한국교회사아카데미'
+url: https://brotherhood-acch.github.io
+exclude: [ .gitignore, README.md ]
+
+# Site Settings
+baseurl: "/"
