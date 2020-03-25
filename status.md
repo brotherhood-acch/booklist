@@ -1,37 +1,20 @@
 ---
 layout: default
-title: "자료현황"
+title: "링크"
 ---
 <div class="py-3 text-center" >
 	<div class="container">
 		<div class="row">
 			<div class="mx-auto col-lg-5 col-md-7 col-10">
-				<h1>소장 자료 현황</h1>
+				<h1>링크</h1>
 			</div>
 		</div>
 	</div>
 </div>
 
 
-※ 2020-03-20 기준
-
-### 단행본
-- 뭐뭐뭐 등 111권
-
-### 논문
-- 뭐뭐뭐 등 111권
-
-### 사진자료
-- 뭐뭐뭐 등 111종
-
-### 전자파일
-- 뭐뭐뭐 등 111종
-
-### 학술지
-- 뭐뭐뭐 등 111권
-
-### 신문
-- 뭐뭐뭐 등 111권
-
-### 기타
-- 뭐뭐뭐 등 111권
+- [한국순교복자성직수도회](http://www.brotherhood.or.kr/)
+- [한국교회사연구소](http://www.history.re.kr/)
+- [내포교회사연구소](http://www.djhistory.org/)
+- [부산교회사연구소](http://history.catb.kr/)
+- [수원교회사연구소](http://www.casky.or.kr/)
