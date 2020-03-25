@@ -1,24 +1,21 @@
 ---
 layout: default
-title: "연락처"
+title: "소개"
 ---
 <div class="py-3 text-center" >
 	<div class="container">
 		<div class="row">
 			<div class="mx-auto col-lg-5 col-md-7 col-10">
-				<h1>연락처</h1>
+				<h1>소개</h1>
 			</div>
 		</div>
 	</div>
 </div>
 
-### 한국 교회사 아카데미
-- 주소주소
-- 전화전화
-- 이메일이메일
+### 자료실 소개
+- 한국교회사아카데미 자료실은.....
 
-
-<br>
+### 지도
 <div class="py-3 text-center" >
 	<div class="container">
 		<div class="row">
@@ -28,3 +25,8 @@ title: "연락처"
 		</div>
 	</div>
 </div>
+
+### 교통안내
+- 자가용
+- 버스
+- 지하철
