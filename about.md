@@ -2,20 +2,19 @@
 layout: default
 title: "소개"
 ---
-<div class="py-3 text-center" >
-	<div class="container">
-		<div class="row">
-			<div class="mx-auto col-lg-5 col-md-7 col-10">
-				<h1>소개</h1>
-			</div>
-		</div>
-	</div>
-</div>
+<div class="py-2">
+    <div class="container">
+      <div class="row">
+        <div class="text-center mx-auto">
+          <h3 class="text-primary display-4">소개</h3>
+        </div>
+      </div>
+    </div>
+  </div>
 
-### 자료실 소개
-- 한국교회사아카데미 자료실은.....
+> 한국교회사아카데미 자료실은.....
 
-### 지도
+## 지도
 <div class="py-3 text-center" >
 	<div class="container">
 		<div class="row">
@@ -26,7 +25,13 @@ title: "소개"
 	</div>
 </div>
 
-### 교통안내
-- 자가용
-- 버스
-- 지하철
+## 교통안내
+- 자가용...
+	- 123
+	- 123
+- 버스...
+	- 123
+	- 123
+- 지하철...
+	- 123
+	- 123
