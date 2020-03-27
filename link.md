@@ -6,7 +6,7 @@ title: "링크"
     <div class="container">
       <div class="row">
         <div class="text-center mx-auto">
-          <h3 class="text-primary display-4">링크</h3>
+          <h3 class="text-primary display-5">링크</h3>
         </div>
       </div>
     </div>

@@ -7,7 +7,7 @@ title: "이용안내"
     <div class="container">
       <div class="row">
         <div class="text-center mx-auto">
-          <h3 class="text-primary display-4">이용안내</h3>
+          <h3 class="text-primary display-5">이용안내</h3>
         </div>
       </div>
     </div>
