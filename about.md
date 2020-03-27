@@ -7,14 +7,14 @@ title: "소개"
       <div class="row">
         <div class="text-center mx-auto">
           <h3 class="text-primary display-4">소개</h3>
+		  <p><span color="#760c0c">한국교회사 아카데미</span>는<br>한국순교복자수도회의 순교영성연구소가 운영하는 부설교육기관으로,<br>한국교회사에 관심 있으신 모든 분들에게<br>학습의 기회를 제공하고자 합니다.</p>
         </div>
       </div>
     </div>
   </div>
 
-> 한국교회사 아카데미는 한국순교복자수도회의 순교영성연구소가 운영하는 부설교육기관으로, 한국교회사에 관심 있으신 모든 분들에게 학습의 기회를 제공하고자 합니다.
 
-## 지도
+
 <div class="py-3 text-center" >
 	<div class="container">
 		<div class="row">
@@ -25,7 +25,7 @@ title: "소개"
 	</div>
 </div>
 
-## 교통안내
+### 교통안내
 - 자가용...
 	- 123
 	- 123
