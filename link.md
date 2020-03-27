@@ -16,5 +16,4 @@ title: "링크"
 - 한국순교복자성직수도회 [http://www.brotherhood.or.kr/](http://www.brotherhood.or.kr/)
 - 한국교회사연구소 [http://www.history.re.kr/](http://www.history.re.kr/)
 - 내포교회사연구소 [http://www.djhistory.org/](http://www.djhistory.org/)
-- 부산교회사연구소 [http://history.catb.kr/](http://history.catb.kr/)
 - 수원교회사연구소 [http://www.casky.or.kr/](http://www.casky.or.kr/)
