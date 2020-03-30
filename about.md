@@ -3,34 +3,28 @@ layout: default
 title: "소개"
 ---
 <div class="py-2">
-    <div class="container">
-      <div class="row">
-        <div class="text-center mx-auto">
-          <h3 class="text-primary display-5">소개</h3>
-		  <p class="mb-3 lead"><span style="color:#760c0c"><b>한국교회사 아카데미</b></span>는<br>한국순교복자수도회의 순교영성연구소가 운영하는 부설교육기관으로,<br>한국교회사에 관심 있으신 모든 분들에게<br>학습의 기회를 제공하고자 합니다.</p>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="text-center mx-auto">
+        <h3 class="text-primary display-5">소개</h3>
+	  <p class="mb-3 lead"><span style="color:#760c0c"><b>한국교회사 아카데미</b></span>는<br>한국순교복자수도회의 순교영성연구소가 운영하는 부설교육기관으로,<br>한국교회사에 관심 있으신 모든 분들에게<br>학습의 기회를 제공하고자 합니다.</p>
       </div>
     </div>
   </div>
+</div>
 
 
 
 <div class="py-3 text-center" >
-	<div class="container">
-		<div class="row">
-			<div class="mx-auto col-lg-5 col-md-7 col-10">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.280257186478!2d126.95460571558755!3d37.52489033426936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1fef626dd9b%3A0x2a64813dd97bd44a!2z7LKc7KO86rWQIOyDiOuCqO2EsCDsiJzqtZAg7ISx7KeA!5e0!3m2!1sko!2skr!4v1584796393954!5m2!1sko!2skr" width="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-			</div>
-		</div>
-	</div>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.280257186478!2d126.95460571558755!3d37.52489033426936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1fef626dd9b%3A0x2a64813dd97bd44a!2z7LKc7KO86rWQIOyDiOuCqO2EsCDsiJzqtZAg7ISx7KeA!5e0!3m2!1sko!2skr!4v1584796393954!5m2!1sko!2skr" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </div>
 
 ### 교통안내
-##### 간선버스 (청색)
+##### ❙간선버스 (청색)
 각 방면에서 용산가는 버스를 타고 한강대교북단 앞에서 하차하시면, 도보로 10분 거리에 있습니다.<br>
 (한강대교 앞에서 이촌2동 방향으로 우회전)
 
-##### 지하철 및 연계 지선버스 (녹색)
+##### ❙지하철 및 연계 지선버스 (녹색)
 1. 아래의 ■ 에서 0017번 버스를 타고 ‘이촌2동 대림아파트, 새남터성지’정거장에서 하차하십시오.
   - 1호선 용산역 1번 출구로 나와 '용산역' 버스정류장  ■
   - 4호선 신용산역 3번 출구 20m 직진 후 우회전 후 횡단보도 건너편  '용산역' 버스정류장 ■
@@ -44,5 +38,5 @@ title: "소개"
 	- 9호선 신반포역 1번 출구, 구반포역 3번 출구 ▶
 	- 중앙선 서빙고역 1번 출구 ▶
 
-##### 승용차
+##### ❙승용차
 순교성지 새남터는 별도 주차공간을 운영하지 않사오니, 순교정신 실천의 일환으로 대중교통을 이용해주시기 바랍니다.
