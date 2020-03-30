@@ -19,19 +19,30 @@ title: "소개"
 	<div class="container">
 		<div class="row">
 			<div class="mx-auto col-lg-5 col-md-7 col-10">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.280257186478!2d126.95460571558755!3d37.52489033426936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1fef626dd9b%3A0x2a64813dd97bd44a!2z7LKc7KO86rWQIOyDiOuCqO2EsCDsiJzqtZAg7ISx7KeA!5e0!3m2!1sko!2skr!4v1584796393954!5m2!1sko!2skr" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.280257186478!2d126.95460571558755!3d37.52489033426936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1fef626dd9b%3A0x2a64813dd97bd44a!2z7LKc7KO86rWQIOyDiOuCqO2EsCDsiJzqtZAg7ISx7KeA!5e0!3m2!1sko!2skr!4v1584796393954!5m2!1sko!2skr" width="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 			</div>
 		</div>
 	</div>
 </div>
 
 ### 교통안내
-- 자가용...
-	- 123
-	- 123
-- 버스...
-	- 123
-	- 123
-- 지하철...
-	- 123
-	- 123
+##### 간선버스 (청색)
+각 방면에서 용산가는 버스를 타고 한강대교북단 앞에서 하차하시면, 도보로 10분 거리에 있습니다.
+(한강대교 앞에서 이촌2동 방향으로 우회전)
+
+##### 지하철 및 연계 지선버스 (녹색)
+1. 아래의 ■ 에서 0017번 버스를 타고 ‘이촌2동 대림아파트, 새남터성지’정거장에서 하차하십시오.
+  ① 1호선 용산역 1번 출구로 나와 '용산역' 버스정류장  ■
+  ② 4호선 신용산역 3번 출구 20m 직진 후 우회전 후 횡단보도 건너편  '용산역' 버스정류장 ■
+2. 1호선 4호선 이촌역 4번출구에서 2016번 버스를 타고 ‘이촌2동 대림아파트, 새남터성지’정거장에서 하차하십시오.
+3. 아래의 ▶ 에서 3012번 버스를 타고 ‘이촌2동 대림아파트, 새남터성지’정거장에서 하차하십시오.
+  ① 1호선 4호선 이촌역 4번 출구 ▶
+	② 2호선,3호선 교대역 13번 출구 ▶
+	③ 3호선 학여울역, 대치역, 도곡역 1번 출구 양재역 말죽거리 4번 출구, 고속터미널역 8-2번 출구 ▶
+	④ 3호선 8호선 가락시장역 2번 출구 ▶
+	⑤ 8호선 장지역, 송파역 1번 출구 ▶
+	⑥ 9호선 신반포역 1번 출구, 구반포역 3번 출구 ▶
+	⑦ 중앙선 서빙고역 1번 출구 ▶
+
+##### 승용차
+순교성지 새남터는 별도 주차공간을 운영하지 않사오니, 순교정신 실천의 일환으로 대중교통을 이용해주시기 바랍니다.
